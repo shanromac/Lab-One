@@ -1,0 +1,75 @@
+{
+	"name": [
+		"Sirius",
+		"Minerva",
+		"James",
+		"Rowena",
+		"Remus",
+		"Luna"
+	],
+	"occupation": [
+		"physical therapist",
+		"tutor",
+		"construction worker",
+		"dentist",
+		"mortician",
+		"student",
+		"stay at home parent"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #times# #expecting# this to happen in their #place#. #trade# #able# #save# the #cause# and were #mood# about it."
+	],
+	"times": [
+		"hardly",
+		"never",
+		"rarely",
+		"not really"
+	],
+	"expecting": [
+		"prepared for",
+		"ready for",
+		"expecting"
+	],
+	"idea": [
+		"clue",
+		"idea",
+		"signs of knowing",
+		"knowledge of"
+	],
+	"place": [
+		"home",
+		"shower",
+		"car",
+		"closet",
+		"attic",
+		"basement",
+		"laundry room"
+	],
+	"trade": [
+		"Scientists",
+		"Experts",
+		"Doctors"
+	],
+	"able": [
+		"did not",
+		"were unable to",
+		"could not"
+	],
+	"save": [
+		"discover",
+		"figure out",
+		"determine"
+	],
+	"cause": [
+		"cause",
+		"root",
+		"origin"
+	],
+	"mood": [
+		"exasperated",
+		"sad",
+		"annoyed",
+		"resentful"
+
+	]
+}
